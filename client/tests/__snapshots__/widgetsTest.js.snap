@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttontests Button Danger use 1`] = `
+<button
+  class="btn btn-danger"
+  type="button"
+>
+   ButtonDanger 
+</button>
+`;
+
+exports[`Buttontests Button Light use 1`] = `
+<button
+  class="btn btn-light"
+  type="button"
+>
+   ButtonLight 
+</button>
+`;
+
+exports[`Buttontests Button Success use 1`] = `
+<button
+  class="btn btn-success"
+  type="button"
+>
+   ButtonSucess 
+</button>
+`;
+
+exports[`Card render tests basic use 1`] = `
+<div
+  class="card"
+>
+  <div
+    class="card-body"
+  >
+    <h5
+      class="card-title"
+    >
+      title
+    </h5>
+    <div
+      class="card-text"
+    >
+      texts
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Row render tests basic use 1`] = `
+<div
+  class="row"
+>
+  <p>
+    1
+  </p>
+  <p>
+    2
+  </p>
+</div>
+`;
